@@ -11,5 +11,9 @@
     "url": "\u0016https://github.com/GoldenFlash/nodejs-.git"
   },
   "author": "wangwei",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^5.0.2"
+  }
 }
